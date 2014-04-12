@@ -54,9 +54,6 @@ h1.title {
   display: block;
   float: left; }
 
-  img.logo {
-    vertical-align: middle; }
-
 @-webkit-keyframes move-up {
   0% {
     top: 25px;
@@ -203,6 +200,9 @@ hr {
   -ms-touch-action: none;
   touch-action: none;
   background: #bbada0;
+  background-image: url("img/msa.png");
+  background-size: 100% 100%;
+  background-position: center;
   border-radius: 6px;
   width: 500px;
   height: 500px;
