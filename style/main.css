@@ -403,7 +403,7 @@ hr {
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: #f2b179;
-    background-image: url("img/jonah.png");
+    background-image: url("img/harry.png");
     background-position: center;
     background-size: 80% 80%;
     background-repeat: no-repeat;
@@ -412,7 +412,7 @@ hr {
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: #f59563;
-    background-image: url("img/harry.png");
+    background-image: url("img/jonah.png");
     background-position: center;
     background-size: 80% 80%;
     background-repeat: no-repeat;
