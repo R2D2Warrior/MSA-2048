@@ -396,10 +396,23 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    color: #f9f6f2;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+    background-image: url("img/james.png");
+    background-position: center;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    font-size: 0px; }
+  .tile.tile-2 .tile-inner:hover { font-size: 55px; }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+    background-image: url("img/robert.png");
+    background-position: center;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    font-size: 0px; }
+  .tile.tile-4 .tile-inner:hover { font-size: 55px; }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: #f2b179;
@@ -420,10 +433,22 @@ hr {
   .tile.tile-16 .tile-inner:hover { font-size: 55px; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background: #f67c5f;
+    background-image: url("img/matt.png");
+    background-position: center;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    font-size: 0px; }
+  .tile.tile-32 .tile-inner:hover { font-size: 55px; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background: #f65e3b;
+    background-image: url("img/tomas.png");
+    background-position: center;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    font-size: 0px; }
+  .tile.tile-16 .tile-inner:hover { font-size: 55px; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
